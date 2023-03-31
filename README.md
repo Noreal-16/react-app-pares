@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ejecutar npm install para que se generen todos los paquetes
 
+# !Importante! se utilizó digital Oeceam para desplegar el frontend, con nginx 
+
 ## Available Scripts
 
 In the project directory, you can run:
